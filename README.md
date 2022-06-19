@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DucKine
+- 👋 Hi, I’m @DucKien
 - 👀 I’m interested in developer
 - 🌱 I’m currently learning at university
 - 💞️ I’m looking to collaborate on GitHub 
